@@ -111,7 +111,7 @@ It also includes document processing capabilities that allow employees to **uplo
 | HR Policy | “How many casual leaves are allowed per year?” |
 | IT Support | “How can I reset my system password?” |
 | Events | “When is the next company annual day celebration?” |
-| Document | “Summarize the HR Policy.pdf file.” |
+| Document | “Summarize the Policy HR.pdf file.” |
 
 ---
 
